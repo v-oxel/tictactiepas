@@ -4,13 +4,13 @@ uses
   crt;
 
 var
-  f// field array
+  f   // field array
   : array[1..9] of char;
   
   n,  // service field variable
   k,  // number of moves
   x,  // X position
-  o// O position
+  o   // O position
   : byte;
   
   win_x,     // win X
