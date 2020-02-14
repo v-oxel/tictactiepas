@@ -3,4 +3,4 @@
 Hello everyone!
 That is my Pascal (ABC .Net) project!
 That is TicTacToe!
-Made as a summer project for I'm Programmer (member of ITBGROUP (https://itv.ru/)) courses https://improgrammer.itv.ru/
+Made as a summer project for I'm Programmer (member of ITVGROUP (https://itv.ru/)) courses https://improgrammer.itv.ru/
